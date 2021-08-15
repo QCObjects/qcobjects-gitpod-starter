@@ -3,6 +3,7 @@
   "relativeImportPath": "js/packages/",
   "serverPortHTTP": "8080",
   "serverPortHTTPS": "8443",
+  "useLegacyHTTP": true,
   "backend": {
     "routes": [{
         "name": "OpenAPI3.JSON",
